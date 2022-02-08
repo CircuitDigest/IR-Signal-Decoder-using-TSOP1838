@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=irstm8.stp
+Dependencies=
+[Options]
+ActiveProject=irstm8
+ActiveConfig=Debug
+AddSortedElements=0
